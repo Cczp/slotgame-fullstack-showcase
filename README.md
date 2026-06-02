@@ -1,4 +1,4 @@
-# slotgame-go Showcase
+# slotgame-fullstack Showcase
 
 > AI 驱动的游戏全栈开发展示仓库。项目由 Go 后端 `slotgame-go` 和 Cocos 前端游戏 `lbj-cocos` 组成，核心特点是使用 AI / Codex 逐步生成游戏说明文档、模块拆解、协议联调说明和开发计划，再推进后端与前端开发。本仓库只公开脱敏后的项目说明，不公开源码、真实配置、数据库信息、密钥、服务器地址或运营数据。
 
