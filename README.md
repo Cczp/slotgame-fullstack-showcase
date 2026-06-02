@@ -63,6 +63,8 @@ flowchart TD
   Debug --> Docs["沉淀联调文档、模块说明和展示 README"]
 ```
 
+详细流程见：[docs/ai-workflow.md](docs/ai-workflow.md)
+
 ## 脱敏目录职责
 
 ### Go 后端
